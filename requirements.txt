@@ -1,0 +1,3 @@
+face_recognition
+librosa
+rev_avi_client
